@@ -1,0 +1,27 @@
+{
+  "name": "fivem-development",
+  "displayName": "FiveM Development",
+  "description": "Everything you need for Fivem development (CFX.re)",
+	"publisher": "ViorityGroup",
+	"homepage": "https://tuncion.de",
+  "icon": "logo.png",
+  "version": "1.0.0",
+  "license": "gpl-3.0",
+	"repository": "https://github.com/Tuncion/vscode-fivem-development-kit",
+
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "sumneko.lua",
+    "overextended.cfxlua-vscode",
+    "donjayamanne.jquerysnippets",
+    "PKief.material-icon-theme",
+    "ritwickdey.LiveServer",
+    "Gruntfuggly.todo-tree",
+    "wayou.vscode-todo-highlight"
+  ]
+}
