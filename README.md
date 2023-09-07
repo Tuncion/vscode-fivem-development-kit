@@ -11,3 +11,10 @@ This is a set of VSCode extensions that I ([Tuncion](https://github.com/Tuncion)
 | Live Server | [![vs marketplace](https://img.shields.io/vscode-marketplace/v/ritwickdey.LiveServer.svg?label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) [![Downloads](https://img.shields.io/vscode-marketplace/d/ritwickdey.LiveServer.svg)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) [![rating](https://img.shields.io/vscode-marketplace/r/ritwickdey.LiveServer.svg)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) |
 | Todo Tree | [![vs marketplace](https://img.shields.io/vscode-marketplace/v/Gruntfuggly.todo-tree.svg?label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) [![Downloads](https://img.shields.io/vscode-marketplace/d/Gruntfuggly.todo-tree.svg)](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) [![rating](https://img.shields.io/vscode-marketplace/r/Gruntfuggly.todo-tree.svg)](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) |
 | TODO Highlight | [![vs marketplace](https://img.shields.io/vscode-marketplace/v/wayou.vscode-todo-highlight.svg?label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) [![Downloads](https://img.shields.io/vscode-marketplace/d/wayou.vscode-todo-highlight.svg)](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) [![rating](https://img.shields.io/vscode-marketplace/r/wayou.vscode-todo-highlight.svg)](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) |
+
+
+##  Visual Studio Code Settings File
+
+1. Create a `.vscode` folder in your project root.
+2. Create a `settings.json` file in the `.vscode` folder.
+3. See `settings.json` in `examples/.vscode` for an example.
