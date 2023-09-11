@@ -5,9 +5,10 @@
 	"publisher": "ViorityGroup",
 	"homepage": "https://tuncion.de",
   "icon": "logo.png",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "gpl-3.0",
 	"repository": "https://github.com/Tuncion/vscode-fivem-development-kit",
+  "cfx": "https://forum.cfx.re/t/pack-fivem-development/5166915",
 
   "engines": {
     "vscode": "^1.81.0"
@@ -18,6 +19,10 @@
   "extensionPack": [
     "sumneko.lua",
     "overextended.cfxlua-vscode",
+    "JohnnyMorganz.stylua",
+    "ResourceGeneratorFiveM.resource-generator-fivem",
+    "esx-framework.esx-legacy",
+    "elior2739.qbcore-snippets",
     "donjayamanne.jquerysnippets",
     "PKief.material-icon-theme",
     "ritwickdey.LiveServer",
