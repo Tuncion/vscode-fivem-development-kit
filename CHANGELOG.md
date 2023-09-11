@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [1.0.1] - 11.09.2023
+## [1.0.2] - 11.09.2023
 - Added following Extension:
     - StyLua by JohnnyMorganz
     - Resource Generator FiveM by Resource Generator FiveM
