@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 15.09.2023
+- Added following Extension:
+    - Easy FiveM by DuckWichTrust
+
+- Added automatic restart of the resource when saving a file
+
 ## [1.0.2] - 11.09.2023
 - Added following Extension:
     - StyLua by JohnnyMorganz
