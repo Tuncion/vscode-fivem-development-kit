@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.4] - 20.09.2023
+- Changed following Extension:
+    - Replaced Easy FiveM by DuckWichTrust with FiveM DevBridge by ZerX
+
+- FiveM DevBridge by ZerX
+    - Its a fork of Easy FiveM by DuckWichTrust with some improvements
+    - We are happy to support this continued development of a great extension
+
 ## [1.0.3] - 15.09.2023
 - Added following Extension:
     - Easy FiveM by DuckWichTrust
