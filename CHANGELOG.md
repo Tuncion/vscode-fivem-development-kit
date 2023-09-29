@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.5] - 29.09.2023
+- Added following Extension:
+    - FiveM Resource Manager by Tuncion (me)
+
+- Added a Fivem Resource Manager directly in VS Code
+
 ## [1.0.4] - 20.09.2023
 - Changed following Extension:
     - Replaced Easy FiveM by DuckWichTrust with FiveM DevBridge by ZerX
