@@ -5,7 +5,7 @@
 	"publisher": "ViorityGroup",
 	"homepage": "https://tuncion.de",
   "icon": "logo.png",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "license": "gpl-3.0",
 	"repository": "https://github.com/Tuncion/vscode-fivem-development-kit",
   "cfx": "https://forum.cfx.re/t/pack-fivem-development/5166915",
@@ -19,7 +19,6 @@
   "extensionPack": [
     "sumneko.lua",
     "overextended.cfxlua-vscode",
-    "JohnnyMorganz.stylua",
     "ResourceGeneratorFiveM.resource-generator-fivem",
     "vioritygroup.fivem-resource-manager",
     "ZerX.fivem-devbridge",

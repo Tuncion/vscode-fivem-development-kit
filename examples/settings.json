@@ -9,12 +9,16 @@
     "Lua.diagnostics.globals": [
         "MySQL" // Enable MySQL global variable
     ],
+    "Lua.format.defaultConfig": { // https://github.com/CppCXY/EmmyLuaCodeStyle/blob/master/lua.template.editorconfig
+        "max_line_length": "1000", // Set max line length to 1000
+        "end_statement_with_semicolon": "same_line" // You should only use a semicolon on oneliner statements
+    },
     "Lua.workspace.library": [
         // Thats an annoying way to load libraries, but it works (Replace with your own path)
         // TODO: Find a better way to load libraries (Feel free to open a pull request)
-        "c:/Users/XXX/.vscode/extensions/overextended.cfxlua-vscode-1.7.3/Lua/runtime", // Load CFX Reference
-        "c:/Users/XXX/.vscode/extensions/overextended.cfxlua-vscode-1.7.3/Lua/natives/CFX-NATIVE", // Load CFX Reference
-        "c:/Users/XXX/.vscode/extensions/overextended.cfxlua-vscode-1.7.3/Lua/natives/GTAV", // Load CFX Reference
+        "c:/Users/XXX/.vscode/extensions/overextended.cfxlua-vscode-1.7.4/Lua/runtime", // Load CFX Reference
+        "c:/Users/XXX/.vscode/extensions/overextended.cfxlua-vscode-1.7.4/Lua/natives/CFX-NATIVE", // Load CFX Reference
+        "c:/Users/XXX/.vscode/extensions/overextended.cfxlua-vscode-1.7.4/Lua/natives/GTAV", // Load CFX Reference
         ".vscode/oxmysql.lua" // Load OxMySQL Reference (Make sure you created/upload the file)
     ],
     // Disable diagnostics parts, use it on your own risk!
@@ -45,7 +49,7 @@
     },
 
     "[lua]": {
-        "editor.defaultFormatter": "JohnnyMorganz.stylua",
+        "editor.defaultFormatter": "sumneko.lua",
         "editor.formatOnSave": true
     }
 

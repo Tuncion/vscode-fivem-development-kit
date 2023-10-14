@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.6] - 14.10.2023
+- Removed following Extension:
+    - StyLua by JohnnyMorganz
+
+- Improved LUA Formatting by using already existing extension
+    - Lua by sumneko
+- Added LUA Formatting config to settings.json (See examples on GitHub)
+
 ## [1.0.5] - 29.09.2023
 - Added following Extension:
     - FiveM Resource Manager by Tuncion (me)
