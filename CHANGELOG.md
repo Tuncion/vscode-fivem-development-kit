@@ -2,6 +2,9 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.7] - 14.07.2023
+- Added 📘 Guides to ReadMe
+
 ## [1.0.6] - 14.10.2023
 - Removed following Extension:
     - StyLua by JohnnyMorganz

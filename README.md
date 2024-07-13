@@ -1,8 +1,9 @@
 # FiveM Development Kit
 
 This is a set of VSCode extensions that I ([Tuncion](https://github.com/Tuncion)) use daily.\
-Leave a rating/suggestion here: [Click Here](https://forum.cfx.re/t/pack-fivem-development/5166915)\
-[See examples on GitHub](https://github.com/Tuncion/vscode-fivem-development-kit)
+[⭐ Rating](https://forum.cfx.re/t/pack-fivem-development/5166915)\
+[📘 Guides](https://docs.tuncion.de/scripts/vscode-fivem-pack) \
+[🛠️ Examples](https://github.com/Tuncion/vscode-fivem-development-kit)
 
 |              |         |
 |--------------|---------|
