@@ -11,7 +11,9 @@
     ],
     "Lua.format.defaultConfig": { // https://github.com/CppCXY/EmmyLuaCodeStyle/blob/master/lua.template.editorconfig
         "max_line_length": "1000", // Set max line length to 1000
-        "end_statement_with_semicolon": "same_line" // You should only use a semicolon on oneliner statements
+        "end_statement_with_semicolon": "same_line", // You should only use a semicolon on oneliner statements
+        "align_continuous_inline_comment": "false", // Align comments in one line
+        "align_continuous_assign_statement": "false", // Align assignments in one line
     },
     "Lua.workspace.library": [
         // Thats an annoying way to load libraries, but it works (Replace with your own path)
